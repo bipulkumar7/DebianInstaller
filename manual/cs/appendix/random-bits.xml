@@ -1,0 +1,11 @@
+<!-- $Id: random-bits.xml 69245 2014-08-20 17:44:06Z holger-guest $ -->
+<!-- original version: 69241 -->
+
+<appendix id="appendix"><title>Co se jinam nevešlo</title>
+
+&files.xml;
+&chroot-install.xml;
+&plip.xml;
+&pppoe.xml;
+
+</appendix>

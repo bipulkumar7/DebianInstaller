@@ -1,0 +1,11 @@
+<!-- retain these comments for translator revision tracking -->
+<!-- $Id: random-bits.xml 69241 2014-08-19 20:04:33Z holger-guest $ -->
+
+<appendix id="random-bits"><title>Random Bits</title>
+
+&files.xml;
+&chroot-install.xml;
+&plip.xml;
+&pppoe.xml;
+
+</appendix>

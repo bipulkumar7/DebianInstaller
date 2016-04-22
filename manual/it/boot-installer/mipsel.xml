@@ -1,0 +1,10 @@
+<!-- retain these comments for translator revision tracking -->
+<!-- original version: 69039 -->
+
+  <sect2 arch="mipsel" id="boot-tftp">
+  <!-- <title>Booting with TFTP</title> -->
+  <title>Avvio con TFTP</title>
+
+&boot-installer-intro-net.xml;
+
+  </sect2>

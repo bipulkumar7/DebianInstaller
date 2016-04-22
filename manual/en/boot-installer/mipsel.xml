@@ -1,0 +1,9 @@
+<!-- retain these comments for translator revision tracking -->
+<!-- $Id: mipsel.xml 69039 2013-12-14 10:21:07Z tbm $ -->
+
+  <sect2 arch="mipsel" id="boot-tftp"><title>Booting with TFTP</title>
+
+&boot-installer-intro-net.xml;
+
+  </sect2>
+
